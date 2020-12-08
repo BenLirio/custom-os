@@ -1,0 +1,18 @@
+ISA
+
+interface between software and hardware
+
+n-bits (8, 16, 32, 64)
+Endianness (big, little)
+n-registers
+
+CISC or RISC
+
+LIST
+
+x86		CISC	16->32->64
+ARM/A32		RISC	32
+ARM/A64		RISC	64
+MIPS		RISC	32->64
+OpenRISC 	RISC	32, 64
+RISC-V		RISC	32, 64, 128

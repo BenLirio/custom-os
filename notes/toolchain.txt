@@ -1,0 +1,5 @@
+compiler	clang
+assembler	clang integrated assembler
+linker		ld.lld
+runtime		compiler-rt
+unwinder	libunwind
